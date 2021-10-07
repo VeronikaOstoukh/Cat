@@ -10,6 +10,7 @@ We're marching into destiny
 March as one
 Don't look back
 Oden's sons
+<<<<<<< HEAD
 Attack!
 
 Unleash hell, do not repent
@@ -30,3 +31,6 @@ Like pawns in a savage game
 Our spirits, spears and shields are linked
 In a much stronger chain
 ---------------------------------------------
+=======
+Attack!
+>>>>>>> parent of c25a043 (Update song1.txt)
